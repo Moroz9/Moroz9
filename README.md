@@ -4,8 +4,8 @@
 
 ### :man_technologist: Обо мне:
 
-Я ios разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался c Wildberries в 2019 году, где я был простым IT специалистом. В то время, я познакомился с многими интересными людьми, в основном они были разработчики. Мне всегда было интересно создавать что-то новое.После этого, я стал активано развиваться в этом направлении.
-Сейчас активано работаю над своими проектами,так же и на фриланс площадках 
+Я ios разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался c Wildberries в 2019 году, где я был простым IT специалистом. Мне всегда было интересно создавать что-то новое. После этого, я стал активно развиваться в этом направлении.
+Сейчас активно работаю над своими проектами,так же и на фриланс площадках 
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Moroz17-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Moroz_17) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dbnzcnsq@gmail.com)
 
