@@ -5,7 +5,7 @@
 ### :man_technologist: Обо мне:
 
 Я IOS Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в разработке начался в 2022 г, когда я начал проходить курс от Teachmeskills.
-Освоив курс от Teachmeskills , я продолжил обучение уже в 2023 г, начав курс SwiftBook Во время прохождения курса я отточил свои скиллы
+Освоив курс от Teachmeskills , я продолжил обучение уже в 2023 г, начав курс SwiftBook Во время прохождения курса я отточил свои скиллы.
 В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы IOS Developer.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Moroz17-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Moroz_17) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dbnzcnsq@gmail.com)
