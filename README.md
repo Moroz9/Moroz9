@@ -12,7 +12,7 @@
 
 - :zap: 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Moro17-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dbnzcnsq@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Moroz17-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Moroz17) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dbnzcnsq@gmail.com)
 
 ---
 
